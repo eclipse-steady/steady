@@ -5,7 +5,7 @@
 </p>
 
 # Eclipse Steady (Incubator Project)
-[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE.txt)
+[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/org.eclipse.steady/plugin-maven/badge.svg)](https://maven-badges.herokuapp.com/maven-central/org.eclipse.steady/plugin-maven)
 [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/4202/badge)](https://bestpractices.coreinfrastructure.org/projects/4202)
