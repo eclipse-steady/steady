@@ -4,6 +4,10 @@
     </a>
 </p>
 
+# THIS PROJECT IS ARCHIVED
+This project’s repositories are archived and read-only. They remain available for reference, but are no longer actively maintained.
+If you are interested in resuming development, please contact the Eclipse Management Organization (EMO) at emo@eclipse-foundation.org.
+
 # Eclipse Steady (Incubator Project)
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE.txt)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
